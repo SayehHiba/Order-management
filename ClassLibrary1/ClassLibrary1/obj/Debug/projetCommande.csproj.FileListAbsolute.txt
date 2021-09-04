@@ -1,0 +1,5 @@
+C:\Users\dell\Downloads\PROJJ-20180616T203646Z-001\PROJJ\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\dell\Downloads\PROJJ-20180616T203646Z-001\PROJJ\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\dell\Downloads\PROJJ-20180616T203646Z-001\PROJJ\ClassLibrary1\ClassLibrary1\bin\Debug\MySql.Data.dll
+C:\Users\dell\Downloads\PROJJ-20180616T203646Z-001\PROJJ\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\dell\Downloads\PROJJ-20180616T203646Z-001\PROJJ\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

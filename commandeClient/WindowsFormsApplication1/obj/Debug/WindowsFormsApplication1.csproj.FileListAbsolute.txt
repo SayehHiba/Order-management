@@ -1,0 +1,75 @@
+C:\Users\Administrateur\Desktop\proj_visual\commandeClient\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Administrateur\Desktop\proj_visual\commandeClient\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrateur\Desktop\proj_visual\commandeClient\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrateur\Desktop\proj_visual\commandeClient\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrateur\Desktop\proj_visual\commandeClient\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Administrateur\Desktop\proj_visual\commandeClient\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrateur\Desktop\proj_visual\commandeClient\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Administrateur\Desktop\proj_visual\commandeClient\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrateur\Desktop\proj_visual\commandeClient\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrateur\Desktop\proj_visual\commandeClient\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+C:\Users\Administrateur\Desktop\proj_visual\commandeClient\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\Administrateur\Desktop\proj_visual\commandeClient\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Administrateur\Desktop\PROJJ_nouveau (1)\PROJJ\PROJJ\commandeClient\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Administrateur\Desktop\PROJJ_nouveau (1)\PROJJ\PROJJ\commandeClient\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrateur\Desktop\PROJJ_nouveau (1)\PROJJ\PROJJ\commandeClient\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrateur\Desktop\PROJJ_nouveau (1)\PROJJ\PROJJ\commandeClient\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrateur\Desktop\PROJJ_nouveau (1)\PROJJ\PROJJ\commandeClient\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrateur\Desktop\PROJJ_nouveau (1)\PROJJ\PROJJ\commandeClient\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\Administrateur\Desktop\PROJJ_nouveau (1)\PROJJ\PROJJ\commandeClient\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+C:\Users\Administrateur\Desktop\PROJJ_nouveau (1)\PROJJ\PROJJ\commandeClient\WindowsFormsApplication1\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Administrateur\Desktop\PROJJ_nouveau (1)\PROJJ\PROJJ\commandeClient\WindowsFormsApplication1\bin\Debug\MySql.Web.dll
+C:\Users\Administrateur\Desktop\PROJJ_nouveau (1)\PROJJ\PROJJ\commandeClient\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Administrateur\Desktop\PROJJ_nouveau (1)\PROJJ\PROJJ\commandeClient\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrateur\Desktop\PROJJ_nouveau (1)\PROJJ\PROJJ\commandeClient\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Administrateur\Desktop\PROJJ_nouveau (1)\PROJJ\PROJJ\commandeClient\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrateur\Desktop\PROJJ_nouveau (1)\PROJJ\PROJJ\commandeClient\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\dell\Downloads\PROJJ-20180616T203646Z-001\PROJJ\commandeClient\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\dell\Downloads\PROJJ-20180616T203646Z-001\PROJJ\commandeClient\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\dell\Downloads\PROJJ-20180616T203646Z-001\PROJJ\commandeClient\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\dell\Downloads\PROJJ-20180616T203646Z-001\PROJJ\commandeClient\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\dell\Downloads\PROJJ-20180616T203646Z-001\PROJJ\commandeClient\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\dell\Downloads\PROJJ-20180616T203646Z-001\PROJJ\commandeClient\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+C:\Users\dell\Downloads\PROJJ-20180616T203646Z-001\PROJJ\commandeClient\WindowsFormsApplication1\bin\Debug\MySql.Data.Entity.dll
+C:\Users\dell\Downloads\PROJJ-20180616T203646Z-001\PROJJ\commandeClient\WindowsFormsApplication1\bin\Debug\MySql.Web.dll
+C:\Users\dell\Downloads\PROJJ-20180616T203646Z-001\PROJJ\commandeClient\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\dell\Downloads\PROJJ-20180616T203646Z-001\PROJJ\commandeClient\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\dell\Downloads\PROJJ-20180616T203646Z-001\PROJJ\commandeClient\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\dell\Downloads\PROJJ-20180616T203646Z-001\PROJJ\commandeClient\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\dell\Downloads\PROJJ-20180616T203646Z-001\PROJJ\commandeClient\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\dell\Downloads\PROJJ-20180616T203646Z-001\PROJJ\commandeClient\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\dell\Desktop\proj c#\PROJJ\commandeClient\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\dell\Desktop\proj c#\PROJJ\commandeClient\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\dell\Desktop\proj c#\PROJJ\commandeClient\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\21655\Downloads\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\PROJJ\commandeClient\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\21655\Downloads\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\PROJJ\commandeClient\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\21655\Downloads\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\PROJJ\commandeClient\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\21655\Downloads\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\PROJJ\commandeClient\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\21655\Downloads\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\PROJJ\commandeClient\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+C:\Users\21655\Downloads\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\PROJJ\commandeClient\WindowsFormsApplication1\bin\Debug\MySql.Data.Entity.dll
+C:\Users\21655\Downloads\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\PROJJ\commandeClient\WindowsFormsApplication1\bin\Debug\MySql.Web.dll
+C:\Users\21655\Downloads\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\PROJJ\commandeClient\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\21655\Downloads\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\PROJJ\commandeClient\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\21655\Downloads\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\PROJJ\commandeClient\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\21655\Downloads\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\PROJJ\commandeClient\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\21655\Downloads\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\PROJJ\commandeClient\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\21655\Downloads\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\PROJJ\commandeClient\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\21655\Downloads\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\PROJJ\commandeClient\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+C:\Users\21655\Downloads\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\PROJJ\commandeClient\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\21655\Downloads\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\PROJJ\commandeClient\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\21655\Desktop\test\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\PROJJ\commandeClient\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\21655\Desktop\test\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\PROJJ\commandeClient\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\21655\Desktop\test\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\PROJJ\commandeClient\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\21655\Desktop\test\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\PROJJ\commandeClient\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\21655\Desktop\test\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\PROJJ\commandeClient\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+C:\Users\21655\Desktop\test\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\PROJJ\commandeClient\WindowsFormsApplication1\bin\Debug\MySql.Data.Entity.dll
+C:\Users\21655\Desktop\test\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\PROJJ\commandeClient\WindowsFormsApplication1\bin\Debug\MySql.Web.dll
+C:\Users\21655\Desktop\test\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\PROJJ\commandeClient\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\21655\Desktop\test\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\PROJJ\commandeClient\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\21655\Desktop\test\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\PROJJ\commandeClient\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\21655\Desktop\test\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\PROJJ\commandeClient\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\21655\Desktop\test\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\PROJJ\commandeClient\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\21655\Desktop\test\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\PROJJ\commandeClient\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\21655\Desktop\test\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\PROJJ\commandeClient\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+C:\Users\21655\Desktop\test\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\PROJJ\commandeClient\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\21655\Desktop\test\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\PROJJ\commandeClient\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
